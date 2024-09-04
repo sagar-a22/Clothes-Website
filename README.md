@@ -17,14 +17,20 @@ Features:
 Project Structure:
 
 clothing-website/
+
 │
-├── index.html        # Homepage
-├── products.html     # Products listing page
-├── contact.html      # Contact page
+
+├── index.html       # Homepage
+
+├── products.html       # Products listing page
+
+├── contact.html        # Contact page
+
 ├── css/
-│   └── styles.css    # Custom styles
-└── js/
-    └── scripts.js    # Custom scripts
+
+│   └── styles.css      # Custom styles
+
+
     
 Getting Started-
 
