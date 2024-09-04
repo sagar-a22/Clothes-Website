@@ -1,20 +1,20 @@
-Clothing Store Frontend Website
+Clothing Store Frontend Website:
 
 This project is a responsive front-end website for a fictional clothing store, built using Bootstrap, HTML, CSS, and JavaScript. The website features a clean and modern design with a focus on showcasing products in a visually appealing and user-friendly way.
 
-Features
+Features:
 
-Responsive Design: The website is fully responsive, ensuring it looks great on all devices, from desktops to mobile phones.
+1)Responsive Design: The website is fully responsive, ensuring it looks great on all devices, from desktops to mobile phones.
 
-Homepage: A welcoming hero section with a call-to-action button leading to the products page, along with featured products displayed in a grid layout.
+2)Homepage: A welcoming hero section with a call-to-action button leading to the products page, along with featured products displayed in a grid layout.
 
-Products Page: A dedicated page showcasing the available products with consistent image sizes, product titles, and prices. Each product has a "Buy Now" button for future integration with a shopping cart.
+3)Products Page: A dedicated page showcasing the available products with consistent image sizes, product titles, and prices. Each product has a "Buy Now" button for future integration with a shopping cart.
 
-Contact Page: A simple contact form where users can submit their name, email, and message.
+4)Contact Page: A simple contact form where users can submit their name, email, and message.
 
-Bootstrap Powered: Leveraging Bootstrap's grid system and components to create a professional and responsive layout with minimal custom CSS.
+5)Bootstrap Powered: Leveraging Bootstrap's grid system and components to create a professional and responsive layout with minimal custom CSS.
 
-Project Structure
+Project Structure:
 
 clothing-website/
 │
@@ -26,13 +26,13 @@ clothing-website/
 └── js/
     └── scripts.js    # Custom scripts
     
-Getting Started
+Getting Started-
 
-Prerequisites
+Prerequisites:
 
 To run this project, you'll need a basic understanding of HTML, CSS, and JavaScript. No additional installations are required.
 
-Running the Project
+Running the Project-
 
 Clone the Repository:
 
